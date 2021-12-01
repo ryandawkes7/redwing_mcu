@@ -1,0 +1,382 @@
+[
+    {
+        "title": "Captain America: The First Avenger",
+        "year": 2011,
+        "directors": [
+            "Joe Johnston"
+        ],
+        "characters": [
+            "Captain America",
+            "Winter Soldier",
+            "Nick Fury"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/1Rq3s2Ov9qcQAeDkDks5_nrphoE=\/fit-in\/180x240\/v2\/https:\/\/flxt.tmsimg.com\/assets\/p8205710_p_v13_ao.jpg"
+    },
+    {
+        "title": "Captain Marvel",
+        "year": 2019,
+        "directors": [
+            "Anna Boden",
+            "Ryan Fleck"
+        ],
+        "characters": [
+            "Captain Marvel",
+            "Hulk",
+            "Nick Fury",
+            "War Machine",
+            "Captain America",
+            "Black Widow"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/qz6OB1ElBFbdf-be55wLhshJuFo=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/ICRuM8e7gYTW-4BgzxD1Kj9mlMU=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzU5ZjVjZTkzLTkwYjEtNDI5My04ZTY0LWMwNGMzM2M0MmYwOS53ZWJw"
+    },
+    {
+        "title": "Iron Man",
+        "year": 2008,
+        "directors": [
+            "Jon Favreau"
+        ],
+        "characters": [
+            "Iron Man",
+            "Nick Fury",
+            "War Machine"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/xPFALLv0zNUkLi_LCPMEkIKhxq4=\/fit-in\/180x240\/v2\/https:\/\/flxt.tmsimg.com\/assets\/p170620_p_v10_an.jpg"
+    },
+    {
+        "title": "Iron Man 2",
+        "year": 2010,
+        "directors": [
+            "Jon Favreau"
+        ],
+        "characters": [
+            "Iron Man",
+            "Nick Fury",
+            "Spider-Man",
+            "War Machine",
+            "Black Widow"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/51eTdcQ2qlJvhLNEdfJg_KVxVQc=\/fit-in\/180x240\/v2\/https:\/\/flxt.tmsimg.com\/assets\/p3546118_p_v10_af.jpg"
+    },
+    {
+        "title": "The Incredible Hulk",
+        "year": 2008,
+        "directors": [
+            "Louis Leterrier"
+        ],
+        "characters": [
+            "Hulk",
+            "Iron Man"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/oyN95wAqUIPTGnv7Ebxw5vHClzE=\/fit-in\/180x240\/v2\/https:\/\/flxt.tmsimg.com\/assets\/p176337_p_v10_ag.jpg"
+    },
+    {
+        "title": "Thor",
+        "year": 2011,
+        "directors": [
+            "Kenneth Branagh"
+        ],
+        "characters": [
+            "Thor",
+            "Loki",
+            "Nick Fury"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/6bvH1-aBm562YEjx-nT_kkIkMJ0=\/fit-in\/180x240\/v2\/https:\/\/flxt.tmsimg.com\/assets\/p7989358_p_v10_af.jpg"
+    },
+    {
+        "title": "The Avengers",
+        "year": 2012,
+        "directors": [
+            "Joss Whedon"
+        ],
+        "characters": [
+            "Thor",
+            "Loki",
+            "Iron Man",
+            "Hulk",
+            "Captain America",
+            "Nick Fury",
+            "Black Widow"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/cFLJZUuGxEE_z_paYiz7S1s9To8=\/fit-in\/180x240\/v2\/https:\/\/flxt.tmsimg.com\/assets\/p8815512_p_v10_ap.jpg"
+    },
+    {
+        "title": "Thor: The Dark World",
+        "year": 2013,
+        "directors": [
+            "Alan Taylor"
+        ],
+        "characters": [
+            "Thor",
+            "Loki",
+            "Captain America"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/I9KQHP0RgV4QKZEKqwJJCULORl8=\/fit-in\/180x240\/v2\/https:\/\/flxt.tmsimg.com\/assets\/p9530219_p_v10_au.jpg"
+    },
+    {
+        "title": "Iron Man 3",
+        "year": 2013,
+        "directors": [
+            "Shane Black"
+        ],
+        "characters": [
+            "Iron Man",
+            "Hulk",
+            "War Machine"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/F_9mNICwPN_kv2GKhJaHO1Li-ns=\/fit-in\/180x240\/v2\/https:\/\/flxt.tmsimg.com\/assets\/p9259486_p_v10_af.jpg"
+    },
+    {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014,
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "characters": [
+            "Captain America",
+            "Winter Soldier",
+            "Nick Fury",
+            "Black Widow"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/ycuWrNPKENinNdf-TGOOIB-fB9c=\/fit-in\/180x240\/v2\/https:\/\/flxt.tmsimg.com\/assets\/p9895254_p_v10_ak.jpg"
+    },
+    {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "directors": [
+            "James Gunn"
+        ],
+        "characters": [
+            "Groot",
+            "Star-Lord"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/6xkj1GWAUi7JNLadrOCun-1sXBs=\/fit-in\/180x240\/v2\/https:\/\/flxt.tmsimg.com\/NowShowing\/130722\/130722_aa.jpg"
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2014,
+        "directors": [
+            "James Gunn"
+        ],
+        "characters": [
+            "Groot",
+            "Star-Lord"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/iyp6xA-JHWxT2HDlsGj2gKM2jSc=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/7CsTxYUC9oxLtXmVVSpKp0UCos8=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2IyMWJmYzgxLWMxZGQtNDdjYS1iYTUzLTVkNmQ0YjJkODk1OC53ZWJw"
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015,
+        "directors": [
+            "Joss Whedon"
+        ],
+        "characters": [
+            "Thor",
+            "Hulk",
+            "Captain America",
+            "Iron Man",
+            "Nick Fury",
+            "War Machine",
+            "Black Widow"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/vMZ7cy4KEElb2WqOa8e7sScosY4=\/fit-in\/180x240\/v2\/https:\/\/flxt.tmsimg.com\/assets\/p10745606_p_v10_aq.jpg"
+    },
+    {
+        "title": "Ant-Man",
+        "year": 2015,
+        "directors": [
+            "Peyton Reed"
+        ],
+        "characters": [
+            "Ant-Man",
+            "Winter Soldier",
+            "Captain America"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/f6A4-2Dk3nff7zNGJYi17g3CXTI=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/ORJjIqDWZCl2V4KT1jfLNUPD0oo=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzkyOTFlZTI0LWVlYjAtNGU5Ni1iZWY1LWQ3YjI5NWNmN2UzMS53ZWJw"
+    },
+    {
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "characters": [
+            "Thor",
+            "Hulk",
+            "Captain America",
+            "Iron Man",
+            "Winter Soldier",
+            "Ant-Man",
+            "Spider-Man",
+            "War Machine",
+            "Black Widow",
+            "Black Panther"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/p1nBYqwlWcoJaHGpPdeoxrCmOn4=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/WuTR5KccDVIly7EOv6TuaJ2Jidg=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzllZThmOGM5LTVjZmUtNDQ5Yy04ZjdjLTcyOWEzZWI0N2FlZC53ZWJw"
+    },
+    {
+        "title": "Black Widow",
+        "year": 2021,
+        "directors": [
+            "Cate Shortland"
+        ],
+        "characters": [
+            "Black Widow"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/2Pb2GucTgjUF2PdRJZ2jdCynmTk=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/8Cps_AWwNbk0bMzDtqzwRhccnY0=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzRkMWJjZjI2LWE0MDktNDczZC05ZmNiLTIzMTQ0NTE5MGJiMC5qcGc="
+    },
+    {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017,
+        "directors": [
+            "Jon Watts"
+        ],
+        "characters": [
+            "Spider-Man",
+            "Iron Man",
+            "Captain America"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/Hy-NtwLUfbC98jbIct0lAzO6gsg=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/JwIeXwQ26fpkxO2r3rmGHWvVHBI=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzI3MmIzNGJhLTUxMDAtNDliMS1iMjZkLTc2YzQxM2E3OTFiYi53ZWJw"
+    },
+    {
+        "title": "Black Panther",
+        "year": 2018,
+        "directors": [
+            "Ryan Coogler"
+        ],
+        "characters": [
+            "Black Panther",
+            "Winter Soldier"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/UqGfi7qJTFlntH7lrAdYPmIcS4Y=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/dH6cVqiBByzFjrjLDr9NW9dSdQY=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzMxOGI1YzBhLWMyMjEtNGUxMS1iM2Q0LWQ4OGMyYzQyZjQyYS53ZWJw"
+    },
+    {
+        "title": "Doctor Strange",
+        "year": 2018,
+        "directors": [
+            "Scott Derrickson"
+        ],
+        "characters": [
+            "Doctor Strange",
+            "Thor"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/X2UtUm06AUaA4qOzFdVM7W0yGiI=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/Uxk5xXltDD8d09_qlS1_3cQLzsA=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2NmZDI1NDE5LWE0NmItNGI3YS05YTZhLTk2NTFlM2U5ZWJkNi53ZWJw"
+    },
+    {
+        "title": "Thor: Ragnarok",
+        "year": 2018,
+        "directors": [
+            "Taika Waititi"
+        ],
+        "characters": [
+            "Thor",
+            "Hulk",
+            "Loki",
+            "Black Widow",
+            "Doctor Strange"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/a-r7a3MnfC7cqyYH20tfU2vCvu0=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/bUks3oAqlmWdDCbYfiyUkZ5GNH4=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzI0NDdkYmJhLTY2MmEtNDY5My04MzMzLTFjMzZhYmM4MDkzZC53ZWJw"
+    },
+    {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018,
+        "directors": [
+            "Peyton Reed"
+        ],
+        "characters": [
+            "Ant-Man"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/eJzKvCNp7DzavDc9lOyhKypVDQU=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/mIMdDiMRxAgtv_1rfHhobVOwPns=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzQyNTBjMzY2LWJiMTItNDc3YS04ZDFiLWFiYTcxNzM4NThlZC53ZWJw"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "characters": [
+            "Thor",
+            "Hulk",
+            "Captain America",
+            "Iron Man",
+            "Black Panther",
+            "Winter Soldier",
+            "Nick Fury",
+            "Groot",
+            "Loki",
+            "Spider-Man",
+            "Star-Lord",
+            "War Machine",
+            "Black Widow",
+            "Doctor Strange"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/8iLTH3QMONvl4smvufpfNu-HxLE=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/nYD953eaRxwQdF4TXY5jRu18MGQ=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzM0NGRkMDM2LWVjNDQtNGZlMC04NGM3LWZkMzQ2Njg1OTUyNi53ZWJw"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "characters": [
+            "Thor",
+            "Hulk",
+            "Captain America",
+            "Iron Man",
+            "Black Panther",
+            "Winter Soldier",
+            "Captain Marvel",
+            "Nick Fury",
+            "Groot",
+            "Ant-Man",
+            "Loki",
+            "Spider-Man",
+            "Star-Lord",
+            "War Machine",
+            "Black Widow",
+            "Doctor Strange"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/M1G5yI3_n2Bcwsiav2K3Jh5_lXs=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/j8RBPQAWUY99VK2IcLRbSdZs0o4=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2QxZjE5ZDgzLTRiY2MtNDFkYS04NWQ4LTRkYzc1ZTAwNWE2NC53ZWJw"
+    },
+    {
+        "title": "Spider-Man: Far from Home",
+        "year": 2019,
+        "directors": [
+            "Jon Watts"
+        ],
+        "characters": [
+            "Spider-Man",
+            "Nick Fury",
+            "Iron Man"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/Quw7SwebSHzj5JF9YAuBU1i6VIo=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/6gPGTgXSvYagw4EMJL_S7_ORRLE=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2M1ZDMzZDMxLTU0MTEtNDc5Yy04NDMyLWU1NWE5MDdkOWFmMy53ZWJw"
+    },
+    {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "year": 2021,
+        "directors": [
+            "Destin Daniel Cretton"
+        ],
+        "characters": [
+            "Shang-Chi",
+            "Hulk",
+            "Captain Marvel"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/miiqtWbya0t1e8lU3Uo9WtdW8ok=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/o3Oul5Xmgiu8no89gblCUYWJB0s=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzY0NWJhN2RhLTg1Y2YtNDBmYS04YjQ0LWI5MWY4NmIwOGRjMy5qcGc="
+    },
+    {
+        "title": "Eternals",
+        "year": 2021,
+        "directors": [
+            "Chlo\u00e9 Zhao"
+        ],
+        "characters": [
+            "Sersi",
+            "Sprite"
+        ],
+        "image": "https:\/\/resizing.flixster.com\/zXLKRnnu68aGuWoG40CXS4O45_s=\/fit-in\/180x240\/v2\/https:\/\/resizing.flixster.com\/g4Dehbdq4DM0RU1b4-pv1JqTwCQ=\/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2NjYWQ1NGQ0LTEyMjMtNGFmZi04YjMxLTc0NjQ1Y2VkYzk2MS5qcGc="
+    }
+]
