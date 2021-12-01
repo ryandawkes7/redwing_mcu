@@ -198,7 +198,6 @@ Task 3:     There are two select boxes at the top of the page.
             // Filters the movies based on the character filter value
             charFilter.addEventListener('change', e => {
                 bulkRemoveClass("movieListEl", ['hidden']);
-                // bulkAddAttr("movieListEl", ['data-active-movie']);
 
                 const value = e.target.value;
                 if (value == "all") return;
@@ -213,7 +212,6 @@ Task 3:     There are two select boxes at the top of the page.
                 nonMatchingMovies.forEach(key => {
                     let el = document.getElementById(`film_${key}`);
                     el.classList.add('hidden');
-                    // el.removeAttribute('data-active-movie');
                 });
             });
 
@@ -248,54 +246,6 @@ Task 3:     There are two select boxes at the top of the page.
                         el.classList.remove(ctr);
                     });
                 })
-            }
-
-            /**
-             * Bulk-removes attributes from searched elements
-             * 
-             * @param string movieClass
-             * @param array attrsToAdd
-             * 
-             * @return void
-             */
-            const bulkRemoveAttr = (movieClass, attrsToRemove) => {
-                attrsToRemove.forEach(atr => {
-                    const els = document.getElementsByClassName(movieClass);
-                    Array.prototype.forEach.call(els, el => {
-                        el.removeAttribute(atr);
-                    });
-                })
-            }
-
-            /**
-             * Bulk-adds attributes to searched elements
-             * 
-             * @param string movieClass
-             * @param array attrsToAdd
-             * 
-             * @return void
-             */
-            const bulkAddAttr = (movieClass, attrsToAdd) => {
-                attrsToAdd.forEach(atr => {
-                    const els = document.getElementsByClassName(movieClass);
-                    Array.prototype.forEach.call(els, el => {
-                        if (!el.hasAttribute(atr)) {
-                            el.setAttribute(atr, '');
-                        }
-                    });
-                })
-            }
-
-            const sortYear = (a, b) => {
-                if (a.dataset.releaseYear < b.dataset.releaseYear) return -1;
-                if (a.dataset.releaseYear > b.dataset.releaseYear) return 1;
-                return 0;       
-            }
-
-            const sortTitle = (a, b) => {
-                if (a.dataset.movieTitle < b.dataset.movieTitle) return -1;
-                if (a.dataset.movieTitle > b.dataset.movieTitle) return 1;
-                return 0;
             }
         });
     </script>
